@@ -7,6 +7,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="UTF-8" />
 	<meta name="keywords" content="SimplaTech" />
+	<script data-ad-client="ca-pub-4206739511134915" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 	<script>
 		addEventListener("load", function () {
 			setTimeout(hideURLbar, 0);
